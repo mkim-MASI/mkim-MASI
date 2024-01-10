@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Interests: Translational AI/Image/Data processing techniques for medical image analysis relating to clinical care.
+
 <!--
 **mkim-MASI/mkim-MASI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
